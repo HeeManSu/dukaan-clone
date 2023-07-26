@@ -1,0 +1,321 @@
+
+
+    [{
+    "id": 1,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/bg-remover/2022/5/2/1651498252457-400x400.png",
+    "name": "Amazon Reviews Importer",
+    "description": "Import reviews directly from your Amazon product link.",
+    "category": "Store Management"
+  },
+  {
+    "id": 2,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1622556662136-400x400.png",
+    "name": "Adwords Conversion Tracking",
+    "description": "Measure your advertising ROI in real time.",
+    "category": "Marketing"
+  },
+  {
+    "id": 3,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1649066248963-clarity_logo.png",
+    "name": "Clarity by Microsoft",
+    "description": "Clarity helps you understand user interaction with your website.",
+    "category": "Analytics"
+  },
+  {
+    "id": 4,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1652765097139-400x400%20%284%29.png",
+    "name": "CookieYes",
+    "description": "Add cookie consent & compliance notice.",
+    "category": "Utilities"
+  },
+  
+  {
+    "id": 5,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1622475128311-countdown-03.jpg",
+    "name": "Countdown Timer",
+    "description": "Create a sense of urgency with a countdown timer.",
+    "category": "Store Management"
+  },
+    {
+    "id": 6,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1661502968118-400x400%20%284%29.png",
+    "name": "Duplicate Orders",
+    "description": "Find duplicate orders with just one click.",
+    "category": ""
+  },
+  {
+    "id": 7,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1686147374912-easyecom.jpeg",
+    "name": "EasyEcom",
+    "description": "This plugin is a part of Dukaan’s Enterprise Plan",
+    "category": "Shipping"
+  },
+  {
+    "id": 8,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1631882155126-facebook.png",
+    "name": "Facebook Domain Verification",
+    "description": "Verify & connect your domain with Facebook account.",
+    "category":  "Analytics"
+  },
+  {
+    "id": 9,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1619938110939-facebook-pixel-large.png",
+    "name": "Facebook Pixel",
+    "description": "Measure, optimize and retarget using the Facebook pixel.",
+    "category": "Analytics"
+  },
+  {
+    "id": 10,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1644990799297-fomo_logo.png",
+    "name": "Fomo",
+    "description": "#1 Social Proof Platform to increase your conversion rates.",
+    "category": "Marketing"
+  },
+  {
+    "id": 11,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1657269525885-google_tag_manager%20%281%29.png",
+    "name": "Google Tag Manager",
+    "description": "Use Google Tag Manager to add Google or other 3rd party scripts",
+    "category": "Analytics"
+  },
+
+  {
+    "id": 11,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1616482032897-google-analytics-logo-879A9F173A-seeklogo.com.png",
+    "name": "Google analytics",
+    "description": "Measure your advertising ROI in real time.",
+    "category":  "Analytics"
+  },
+  {
+    "id": 12,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1631859663655-GSC.png",
+    "name": "Google Search Console",
+    "description": "Measure your site's performance, traffic & fix issues.",
+    "category": "Marketing"
+  },
+  {
+    "id": 13,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1622441357600-hellobar_image-01.jpg",
+    "name": "Hellobar",
+    "description": "Convert visitors into customers with HelloBar.",
+    "category": "Store Management"
+  },
+  {
+    "id": 14,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1652863023567-400x400%20%2810%29.png",
+    "name": "Hotjar",
+    "description": "Understand visitor interactions with your site.",
+    "category": "Analytics"
+  },
+  {
+    "id": 15,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1616477243143-Intercom.png",
+    "name": "Intercom Live Chat",
+    "description": "Add the Intercom Messenger to your website in just a few clicks.",
+    "category": "Customer Support"
+  },
+  {
+    "id": 16,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1649748338918-logo-small.png",
+    "name": "Kommunicate Chatbot, Live chat",
+    "description": "Add live 24x7 AI based chatbot customer support to your website.",
+    "category": "Customer Support"
+  },
+  {
+    "id": 17,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1686147659150-limechat.png",
+    "name": "LimeChat",
+    "description": "This plugin is a part of Dukaan’s Enterprise Plan",
+    "category": "Customer Support"
+  },
+  {
+    "id": 18,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1686144650763-login-pricing.png",
+    "name": "Login-based pricing",
+    "description": "This plugin is a part of Dukaan’s Enterprise Plan",
+    "category": "Others"
+  },
+  {
+    "id": 19,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1663069307884-400x400%20%283%29.jpg",
+    "name": "Loyalty Points",
+    "description": "Increase repeat orders with loyalty points.",
+    "category": "Store Management"
+  },
+  {
+    "id": 20,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1652862208251-400x400%20%289%29.png",
+    "name": "Lucky Orange",
+    "description": "Learn how visitors navigate your store.",
+    "category": "Analytics"
+  },
+  {
+    "id": 21,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1634046068159-mailchimp-logo.png",
+    "name": "Mailchimp",
+    "description": "Engage your customers and boost business with Mailchimp.",
+    "category": "Marketing"
+  },
+  {
+    "id": 22,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1631794131344-400x400.png",
+    "name": "Google Merchant Center",
+    "description": "Create product feed and promote with Shopping Ads.",
+    "category": "Marketing"
+  },
+  {
+    "id": 23,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1652708751240-400x400%20%287%29.png",
+    "name": "Mailmunch",
+    "description": "Collect more emails and convert more site visitors into customers.",
+    "category": "Marketing"
+  },
+  {
+    "id": 24,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1648474165206-1644416770264-optinmonster_logo.png",
+    "name": "Optinmonster",
+    "description": "Generate more leads or increase the conversions with beautiful popups.",
+    "category": "Marketing"
+  },
+  {
+    "id": 25,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1625502716216-dynamicdelivery-16.jpg",
+    "name": "Pincode/Distance Based Delivery",
+    "description": "Ship orders with India's largest e-commerce logistics company.",
+    "category": "Shipping"
+  },
+  {
+    "id": 26,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1616477166367-privy.png",
+    "name": "Privy Ecommerce Marketing",
+    "description": "Email marketing, Pop-ups, On-Site Displays, Abandoned Cart & Texts.",
+    "category": "Marketing"
+  },
+  {
+    "id": 27,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1652721525311-400x400%20%283%29.png",
+    "name": "Poptin",
+    "description": "Create engaging popups and forms for your website in minutes.",
+    "category": "Marketing"
+  },
+  {
+    "id": 28,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/bg-remover/2022/6/30/1656586118900-product_review.png",
+    "name": "Product Reviews and Ratings",
+    "description": "Collect and showcase reviews to build trust and boost sales.",
+    "category": "Store Management"
+  },
+  {
+    "id": 29,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1652692010785-400x400%20%283%29.png",
+    "name": "Richpanel Live Chat",
+    "description": "E-commerce Customer Support and Experience Platform.",
+    "category": "Customer Support"
+  },
+  {
+    "id": 30,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1622556999209-seo.jpg",
+    "name": "All-in-one SEO",
+    "description": "Improve search rankings and drive more traffic to your shop.",
+    "category": "Marketing"
+  },
+  {
+    "id": 31,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1652685931212-400x400.png",
+    "name": "Shopify Importer",
+    "description": "Import products from your Shopify store to Dukaan.",
+    "category": "Store Management"
+  },
+  {
+    "id": 32,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1657114036177-ShareChat_logo.png",
+    "name": "ShareChat Pixel",
+    "description": "Enable Advance tracking to optimise your ShareChat ads",
+    "category": "Analytics"
+  },
+  {
+    "id": 33,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/bg-remover/2021/11/30/1638258255530-shippo-logo.png",
+    "name": "Shippo",
+    "description": "Ship products at the best rates and grow your business with Shippo.",
+    "category": "Shipping"
+  },
+  {
+    "id": 34,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1616477494565-tawk.png",
+    "name": "Tawk.To : Live Chat",
+    "description": "Monitor and chat with the visitors on your Dukaan store.",
+    "category": "Customer Support"
+  },
+  {
+    "id": 35,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1616477494565-tawk.png",
+    "name": "Tawk.To : Live Chat",
+    "description": "Monitor and chat with the visitors on your Dukaan store.",
+    "category": "Customer Support"
+  },
+  {
+    "id": 36,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1646308497481-TrustedLogo.png",
+    "name": "Trusted Badges",
+    "description": "Free Trust Badges for sales conversion and social proof.",
+    "category":"Utilities"
+  },
+  {
+    "id": 37,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1686147061458-unicommerce.png",
+    "name": "Unicommerce",
+    "description": "This plugin is a part of Dukaan’s Enterprise Plan",
+    "category":"Shipping"
+  },
+  {
+    "id": 38,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1652709553902-400x400%20%288%29.png",
+    "name": "Userlike: Live Chat",
+    "description": "Turn instant chats into long-term customers.",
+    "category": "Customer Support"
+  },
+  {
+    "id": 39,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1686147256762-vinculum.png",
+    "name": "Viniculum",
+    "description": "This plugin is a part of Dukaan’s Enterprise Plan",
+    "category": "Others"
+  },
+  {
+    "id": 40,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1679209669698-webengage.webp",
+    "name": "WebEngage",
+    "description": "Build a Customer-first Digital Experience with WebEngage",
+    "category": "Others"
+  },
+  {
+    "id": 41,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1666011108083-webhooks%20logo%20%281%29.jpg",
+    "name": "Webhooks",
+    "description": "Integrate with multiple apps seamlessly",
+    "category": "Utilities"
+  },
+  {
+    "id": 42,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1652716656547-400x400%20%281%29.png",
+    "name": "Wisepops",
+    "description": "Create beautiful contextual popups, banners & bars for your visitors.",
+    "category": "Marketing"
+  },
+  {
+    "id": 43,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1660835587196-wishlist_logo.png",
+    "name": "Wishlist",
+    "description": "Allow your customers to wishlist their favourite items.",
+    "category": "Utilities"
+  },
+  {
+    "id": 44,
+    "image": "https://mydukaan.s3.ap-south-1.amazonaws.com/plugins/1652954787272-400x400.jpg",
+    "name": "Zendesk Chat",
+    "description": "Power up your customer support with Zendesk.",
+    "category": "Customer Support"
+  }
+]
+
