@@ -6,7 +6,7 @@ import Features from '../Components/Features'
 import Benefits from '../Components/Benefits'
 import Theme from '../Components/Theme'
 import Plugins from '../Components/Plugins'
-import Data from '../Components/Data'
+import Testimonials from '../Components/Testimonials'
 
 const Homepage = () => {
     return (
@@ -18,7 +18,7 @@ const Homepage = () => {
             <Benefits />
             <Theme />
             <Plugins />
-            <Data />
+            <Testimonials />
         </div>
     )
 }
