@@ -1,13 +1,16 @@
 ## Woking Demo
 
 - Home Page
-https://github.com/Robo707/Gym-Freak/assets/97340980/bc584fdb-9d39-44f4-9076-84d284ef2816
+
+https://github.com/Robo707/Gym-Freak/assets/97340980/ee93e935-8943-49f0-aabe-6252cb76dad5
+
 
 
 - Plugins Page
 
-https://github.com/Robo707/Gym-Freak/assets/97340980/7758d4f7-77b3-4a5b-ae41-953bed02bef5
+https://github.com/Robo707/Gym-Freak/assets/97340980/9bfbf924-94e4-403e-9483-acc51f02e088
 
 
 - Tools Page
-https://github.com/Robo707/Gym-Freak/assets/97340980/460ba08c-d28e-4725-be0a-f910735b2ab9
+
+  https://github.com/Robo707/Gym-Freak/assets/97340980/60d8c98b-9294-469a-bf25-c4e8d3bc303e
