@@ -11,6 +11,7 @@ import company4 from "../assets/company4.svg"
 import { FiChevronDown } from "react-icons/fi";
 import hamburger from "../assets/hamburger.svg"
 import cross from "../assets/cross.svg"
+import { Link } from 'react-router-dom';
 
 
 const PluginNavbar = () => {
@@ -36,7 +37,7 @@ const PluginNavbar = () => {
             <div className="lg:block hidden">
                 <div className='flex items-center justify-between'>
                     <div className="flex  items-center">
-                        <img src={dukkanlogo} alt="logo" className="w-[156px] h-[44px]" />
+                        <Link to="/"> <img src={dukkanlogo} alt="logo" className="w-[156px] h-[44px]" /></Link>
                         <ul className="lg:pl-20 pl-14 lg:gap-10 gap-6 flex ">
                             <li className='group' onMouseOver={() => setNavbar(true)}>
                                 <button className="header1 flex items-center gap-1 py-4">
@@ -78,7 +79,7 @@ const PluginNavbar = () => {
                                                     Add extra functionality, features, and customization with the help of plugins.
                                                 </span>
                                             </span>
-                                            <span className='dropdown'>
+                                            <Link to="/tools">    <span className='dropdown'>
                                                 <span className='mr-[16px]'>
                                                     <img className='min-w-max' src={product1} alt="noimage" />
                                                 </span>
@@ -87,7 +88,7 @@ const PluginNavbar = () => {
                                                     <b className='dropdown-item-header'>Business tools</b>
                                                     Free tools to help take your business to the next level.
                                                 </span>
-                                            </span>
+                                            </span> </Link>
                                         </div>
                                     </div>
                                 </div>
@@ -161,7 +162,7 @@ const PluginNavbar = () => {
             <div className='lg:hidden'>
 
                 <div className='flex justify-between items-center'>
-                    <img className="w-[156px] h-[44px]" src={dukkanlogo} alt="noimage" />
+                    <Link to="/"> <img className="w-[156px] h-[44px]" src={dukkanlogo} alt="noimage" /></Link>
                     <img className={`h-[32px] w-[40px] ${toggle ? 'bg-gray-100' : ""}`} src={toggle ? cross : hamburger} alt="toggle" onClick={() => setToggle(!toggle)} />
                 </div>
 
@@ -198,10 +199,10 @@ const PluginNavbar = () => {
                                                 <img className='w-[24px] h-[24px]' src={product2} alt="noimage" />
                                                 <p className='text-[16px]' >Dukaan Plugins</p>
                                             </div>
-                                            <div className='flex pb-3 gap-3'>
+                                            <Link to="/tools">   <div className='flex pb-3 gap-3'>
                                                 <img className='w-[24px] h-[24px]' src={product1} alt="noimage" />
                                                 <p className='text-[16px]' >Business Tools</p>
-                                            </div>
+                                            </div> </Link>
                                         </div>
                                     }
                                 </li>
